@@ -21,8 +21,8 @@
 
 1. **克隆项目**
    ```bash
-   git clone <your-repo-url>
-   cd AINew
+   git clone https://github.com/123dx-svg/AISystemDesignPattern.git
+   cd AISystemDesignPattern
    ```
 
 2. **安装依赖**
@@ -39,10 +39,10 @@
 4. **安装 Jupyter Kernel**
    ```bash
    # Windows
-   .venv\Scripts\python -m ipykernel install --user --name=ainew --display-name="Python (AINew)"
+   .venv\Scripts\python -m ipykernel install --user --name=ainew --display-name="Python (AISystemDesignPattern)"
 
    # macOS/Linux
-   .venv/bin/python -m ipykernel install --user --name=ainew --display-name="Python (AINew)"
+   .venv/bin/python -m ipykernel install --user --name=ainew --display-name="Python (AISystemDesignPattern)"
    ```
 
 5. **在 VSCode 中打开项目**
