@@ -32,7 +32,6 @@
 
 3. **配置 API 密钥**
    ```bash
-   cp .env.example .env
    # 编辑 .env 文件，添加您的 OpenRouter API 密钥
    ```
 
@@ -47,7 +46,7 @@
 
 5. **在 VSCode 中打开项目**
    - 打开任意 `.ipynb` 文件
-   - 选择 "Python (AINew)" kernel
+   - 选择 "Python (AISystemDesignPattern)" kernel
    - 开始运行！
 
 ## 📖 详细文档
